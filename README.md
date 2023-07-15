@@ -32,6 +32,8 @@ At the age of 37, I decided to completely change my career and immerse myself in
 
 In my free time, I enjoy riding my motorcycles 🏍️ and exploring the countryside of Buenos Aires. I also have a park with a garden where I grow some of my favorite vegetables and spices. I'm single and live with two non-human adventure companions, my two poodles, one black and one white 🐺🐻‍❄️.
 
+![](https://komarev.com/ghpvc/?username=arozas&label=PROFILE+VIEWS)
+
 <!-- Skills -->
 ## Technical Skills
 
