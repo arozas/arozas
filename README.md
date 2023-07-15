@@ -36,16 +36,16 @@ Lenguajes:
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript"></code>
 
-Maquetado y Estilos:
-
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5"></code>
-<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3"></code>
-
 Frameworks y Librerías:
 
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg" alt="Angular"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="VueJs"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React"></code>
+
+Maquetado y Estilos:
+
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3"></code>
 
 Bases de Datos:
 
