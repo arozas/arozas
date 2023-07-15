@@ -23,7 +23,7 @@ Mi carrera en estado supera ampliamente mi carrera como desarrollador, ya que te
 
 Anteriormente, trabajé en el sector de la construcción, en una de las principales empresas del rubro, donde desempeñé el rol de asistente ejecutivo durante 7 años 👨‍💼.
 
-A los 37 años decidí cambiar mi carrera por completo y adentrarme en el mundo de la programación como desarrollador a tiempo completo. Aunque ya tenia experiencia en el sector, a esa edad decidí complementar mi conocimiento con la educación formal cor la carrera de programación y sistemas en la Universidad Tecnológica Nacional (UTN) de Argentina 🌱.
+A los 37 años decidí cambiar mi carrera por completo y adentrarme en el mundo de la programación como desarrollador a tiempo completo. Aunque ya tenia experiencia en el sector, a esa edad decidí complementar mi conocimiento con la educación formal en la carrera de programación y sistemas en la Universidad Tecnológica Nacional (UTN) de Argentina 🌱.
 
 En mi tiempo libre, me gusta conducir mis motocicletas 🏍️ y recorrer el interior de Buenos Aires. También tengo un parque con un jardín donde cultivo algunas de mis verduras y especias favoritas. Soy soltero y vivo con dos compañeros no humanos de aventuras, mis dos caniches, uno negro y uno blanco 🐺🐻‍❄️.
 
