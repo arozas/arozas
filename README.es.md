@@ -11,6 +11,12 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue" alt="LinkedIn">
   </a>
 </p>
+<p align="center">
+    <a href="https://github.com/arozas/README.md">
+     <img src="https://img.shields.io/badge/lang-en-red.svg" alt="English">
+  </a>
+</p>
+
 
 <!-- Acerca de mí -->
 ## Acerca de mí
