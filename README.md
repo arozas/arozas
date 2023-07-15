@@ -81,16 +81,6 @@ Breve descripción del proyecto y tecnologías utilizadas.
 
 ### [Contribución 1](enlace_a_la_contribucion_1)
 
-Descripción de la contribución y su impacto.
-
-### [Contribución 2](enlace_a_la_contribucion_2)
-
-Descripción de la contribución y su impacto.
-
-### [Contribución 3](enlace_a_la_contribucion_3)
-
-Descripción de la contribución y su impacto.
-
 <!-- Estadísticas de GitHub -->
 ## Estadísticas de GitHub
 
