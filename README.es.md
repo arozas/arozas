@@ -33,6 +33,9 @@ A los 37 años decidí cambiar mi carrera por completo y adentrarme en el mundo 
 
 En mi tiempo libre, me gusta conducir mis motocicletas 🏍️ y recorrer el interior de Buenos Aires. También tengo un parque con un jardín donde cultivo algunas de mis verduras y especias favoritas. Soy soltero y vivo con dos compañeros no humanos de aventuras, mis dos caniches, uno negro y uno blanco 🐺🐻‍❄️.
 
+<!-- Vistas de perfil -->
+![](https://komarev.com/ghpvc/?username=arozas&label=PROFILE+VIEWS)
+
 <!-- Habilidades -->
 ## Habilidades Técnicas
 
