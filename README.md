@@ -75,9 +75,9 @@ Cloud Computing:
 
 Repository with a basic microservice model, using Clean Architecture, Repository Pattern, Mediator Pattern, EF.Core, etc.
 
-### [Project 2](link_to_project_2)
+### [Clients API](https://github.com/arozas/ClientsApiTest)
 
-Brief description of the project and technologies used.
+A basic clients API in NetCore.
 
 ### [Project 3](link_to_project_3)
 
