@@ -71,7 +71,7 @@ Cloud Computing:
 <!-- Featured Projects -->
 ## Featured Projects
 
-### [Microservices E-Shop]([https://github.com/arozas/MicroserviciosNetCore])
+### [Microservices E-Shop](https://github.com/arozas/MicroserviciosNetCore)
 
 Repository with a basic microservice model, using Clean Architecture, Repository Pattern, Mediator Pattern, EF.Core, etc.
 
