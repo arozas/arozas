@@ -39,9 +39,12 @@ In my free time, I enjoy riding my motorcycles 🏍️ and exploring the country
 
 Languages:
 
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C"></code>
+<code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript"></code>
 <code><img height="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript"></code>
+
 
 Frameworks and Libraries:
 
