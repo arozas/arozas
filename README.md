@@ -34,6 +34,8 @@ In my free time, I enjoy riding my motorcycles 🏍️ and exploring the country
 
 ![](https://komarev.com/ghpvc/?username=arozas&label=PROFILE+VIEWS)
 
+![](https://www.codewars.com/users/arozas/badges/large)
+
 <!-- Skills -->
 ## Technical Skills
 
