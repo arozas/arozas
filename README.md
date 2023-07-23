@@ -84,9 +84,9 @@ Repository with a basic microservice model, using Clean Architecture, Repository
 
 A basic clients API in NetCore.
 
-### [Project 3](link_to_project_3)
+### [CodeWars](https://github.com/arozas/CodeWars)
 
-Brief description of the project and technologies used.
+CodeWars Challenges to practice algorithms.
 
 <!-- Community Contributions -->
 ## Community Contributions
